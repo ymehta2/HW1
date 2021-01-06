@@ -1,1 +1,2 @@
 # HW1
+This is a business website for a farm that sells fresh fruits online! It features a home page with an overview of the business and has two other pages: About Us and Our Fruits. About Us briefly explains the company and Our Fruits highlights what fruits the business has.
